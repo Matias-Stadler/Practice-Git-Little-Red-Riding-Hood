@@ -1,4 +1,4 @@
-header{
+header, footer{
     background-color: aqua;
 }
 
@@ -9,4 +9,8 @@ header{
 .p1{
     display: flex;
     justify-content: space-around;
+}
+.im{
+    display: flex;
+    justify-content: end;
 }
